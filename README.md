@@ -9,8 +9,8 @@ The dataset contains 5,875 voice recordings from 42 Parkinson's disease patients
 Each instance (row) in the dataset represents a voice recording taken from a patient at a specific time.
 The dataset includes 16 biomedical voice measures derived from speech signals.
 Two target variables indicate Parkinson’s severity:
-Motor UPDRS (Unified Parkinson’s Disease Rating Scale)
-Total UPDRS
+Motor UPDRS. (Unified Parkinson’s Disease Rating Scale)
+Total UPDRS.
 
 1. **Target Overview.** <br/>
 2. **How do Shimmer(dB)' and 'Jitter(%)' values behave on time.** <br/>
@@ -65,7 +65,7 @@ print(parkinsons_telemonitoring.variables)
 --------------------------------------------------------------------------------------------------------------------
 
 1. **n_estimators**: 686 <br/> 
-2. **learning_rate**: 0.020807222486212525  
+2. **learning_rate**: 0.020807222486212525 <br/> 
 3. **max_depth**: 9 <br/> 
 4. **subsample**: 0.974896275773738 <br/> 
 5. **colsample_bytree**: 0.9649378569877631 <br/>  
