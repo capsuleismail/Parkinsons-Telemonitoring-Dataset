@@ -12,6 +12,8 @@ Two target variables indicate Parkinson’s severity:
 Motor UPDRS. (Unified Parkinson’s Disease Rating Scale)
 Total UPDRS.
 
+These are the questions I've gone through on my notebooks:
+
 1. **Target Overview.** <br/>
 2. **How do Shimmer(dB)' and 'Jitter(%)' values behave on time.** <br/>
 3. **Can we detect trends in voice measurements over time for individual patients?** <br/>
